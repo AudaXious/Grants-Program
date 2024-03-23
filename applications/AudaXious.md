@@ -1,4 +1,27 @@
-# AudaXious
+# Project AudaXious - A Multichain Engagement Platform where Members Participate in Web3 Projects
+
+> This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/blob/master/README_2.md) on how to submit a proposal.
+
+* **Team Name:** HackCity Tech
+* **Payment Address:** BTC address: `1Q88PtW866r4bfv2eMphobP78QnsDrRKfY`
+
+*The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
+
+## Project Overview :page_facing_up:
+
+If this application in response to an RFP then please indicate this on the first line of this section.
+
+### Overview
+
+#### Background
+
+It is clear to us that building a better, faster and cheaper Ethereum is not nearly enough. Just like Ethereum can do things Bitcoin can never do and subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum that will empower many new types of innovations outside of the sandbox.
+
+On a domain-specific chain like the Acala chain, there're many domain specific runtime optimizations. For example, there’re DeFi primitives, liquidity and users that can be tapped into, there are also innovations that are simply not possible on Ethereum - customizable economic policy, for example Acala’s Flex-Fee allows users to pay transaction fee with any supported tokens; native cross-chain capability; on-chain governance apparatus (no more locked funds); full upgradability (no more contract migrations) and more.
+
+We’d love to have all of these and EVM compatibility.
+
+#### Current Solution
 
 > This document will be part of the terms and conditions of your agreement and, therefore, needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g., `![](image.png)` instead of `<img>`).
 >
