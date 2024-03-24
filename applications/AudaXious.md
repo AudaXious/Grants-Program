@@ -1,4 +1,4 @@
-# Project AudaXious - A Multichain Engagement Platform that Facilitates Participation in Web3 Projects
+# Project AudaXious - AI-enhanced Engage-to-Earn Platform for Web3 Projects
 
 > This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/blob/master/README_2.md) on how to submit a proposal.
 
@@ -13,13 +13,14 @@ If this application in response to an RFP then please indicate this on the first
 
 ### Overview
 
-AudaXious is an AI-enhanced decentralized engagement platform that enables members to earn rewards and win airdrops by participating and contributing quality content to web3 projects.  It is designed to offer web3 projects and communities the tools they need to effectively enhance their adoption, significantly increase engagement, and reward active community members.
+AudaXious is an AI-enhanced decentralized engagement platform that enables members to earn rewards and win airdrops by participating in and contributing quality content to Web3 projects. It is designed to provide Web3 projects and communities with the tools needed to enhance their adoption, significantly increase engagement, and reward active community members. AudaXious offers features such as AI creative and content automation tools for generating and automating content, as well as an airdrop/multisending tool with a social account payment recipient verification feature, among others.
 
-With AudaXious, users and community members can earn rewards through their engagement (engage-to-earn), participate in periodic win-big quests, and compete for the top spot leaderboard prizes.
+Users and community members can earn rewards through their engagement (engage-to-earn) by participating in social media campaigns, early adoption, and testing/testnet.
 
-While AudaXious was developed to solve the numerous problems that are seen in the web3 space when it comes to rewarding community and engagement, its services can be utilized by anyone, including non-web3 communities and projects, to effectively boost the adoption of their products and services.
 
-In addition to this, AudaXious provides users with the tools to carry out activities like airdrop reward payments, multisending of tokens, and an easy account creation infrastructure that makes it possible for users without crypto wallets to participate.
+While AudaXious is being developed to solve the numerous problems seen in the Web3 space regarding rewarding community engagement and fostering growth and adoption, its services can be utilized by anyone, including non-Web3 communities and projects, to effectively boost the adoption of their products and services. This makes it a great candidate for catalyzing the adoption of Web3 and blockchain technologies.
+
+The technology offered by AudaXious goes beyond engagement; it leverages mechanisms such as proof of efficiency, proof of stake, account abstraction, and escrow contracts to provide features like off/on-ramp capabilities via trustless agents, decentralized peer-to-peer markets, and on-chain smart addresses. This facilitates the participation of non-crypto-savvy individuals/entities with little to no onboarding friction.
 
 #### Background
 
